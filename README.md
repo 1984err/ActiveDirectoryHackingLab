@@ -141,7 +141,7 @@ Check out my walkthrough for LLMNR, NBT-NS, and mDNS poisoning below:
 
 
 
-### IPv6 Takeover
+### **IPv6 Takeover**
  
 
 #### Command Line Tools Needed:
