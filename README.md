@@ -13,10 +13,10 @@ Enterprise. You can grab virtualbox and each OS with the following links:
 
 [Kali Linux](https://www.kali.org) 
 
- If you would like to setup your own lab or see how I configured mine, check
+ If you would like to set up your own lab or see how I configured mine, check
 out the following tutorial:
  
-Lab Setup Walkthrough
+[LAB SETUP](https://youtu.be/6xRZKXiHfS4)
 
 
 ## NETWORK
@@ -136,7 +136,7 @@ enterprise enviroment such as this.
 
 Check out my walkthrough for LLMNR, NBT-NS, and mDNS poisoning below:
 
-![LLMNR/NBT-NS/mDNS Poisoning](***LLMNR VIDEO HERE***)
+[LLMNR/NBT-NS/mDNS Poisoning](https://youtu.be/gi-Sj7o1gZw)
 
 
 
@@ -146,8 +146,8 @@ Check out my walkthrough for LLMNR, NBT-NS, and mDNS poisoning below:
 
 #### Command Line Tools Needed:
 - MITM6  • ![Grab Tool](https://github.com/dirkjanm/mitm6)
-- Impacket - NTLMRelayx (Pre-Installed in Kali Linux 2022.2)
-- Python3
+- Impacket-NTLMRelayx (Pre-Installed in Kali Linux 2022.2)
+- Python3 (Pre-Installed in Kali Linux 2022.2)
 
 
  IPv6 Takeover attacks might just be my favorite so far. The reason I find this
@@ -168,10 +168,10 @@ authentication. Other options included turning off IPv6, and WPAD but
 moving to Kerberos would be the cleanest and most secure method in my opinion.
 
 To get a better understanding of how this attack works under the
-hood check out this article ![mitm6](https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6), 
-and to watch a walkthrough check out my video below:
+hood check out this article [mitm6](https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6), 
+and to watch my walktrhough of the attack check out the video below:
 
-![IPv6 Takeover]()
+[IPv6 Takeover](https://youtu.be/Ee6BzduJErs)
 
 
 ### Kerberoasting
