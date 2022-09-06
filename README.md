@@ -27,8 +27,7 @@ Address Range = 10.10.2.0/24 \
 Domain Controller = 10.10.2.4 \
 DHCP Server  = 10.10.2.3 \
 Default Gateway = 10.10.2.1 \
-DNS Servers = 10.10.2.4 \
-SMB = [ON]
+DNS Servers = 10.10.2.4 
 
 ![](Images/VBoxNatNetwork.png)
 
