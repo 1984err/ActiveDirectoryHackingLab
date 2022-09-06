@@ -1,7 +1,7 @@
 # ACTIVE DIRECTORY HACKING LAB
 
  I created this lab to research exploits and find vulnerabilities within 
-Microsoft Windows and Active Directory. The environment was created in 
+Microsoft Windows and Active Directory. This test environment was created in 
 VirtualBox using Kali Linux, Microsoft Windows Server 2022, and Windows 10 
 Enterprise. You can grab virtualbox and each OS with the following links:
 
