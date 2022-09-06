@@ -63,7 +63,7 @@ OS = Windows 10 Enterprise \
 IPv4 = 10.10.2.7 \
 IPv6 = fe80::9f8:a2fa:66a7:ae53%6 \
 Local Account = local_user \
-Local Pass = password3 \
+Local Pass = password3 
 
 
 ### Attack Machine:
