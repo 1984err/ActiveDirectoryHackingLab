@@ -16,7 +16,6 @@ Enterprise. You can grab virtualbox and each OS with the following links:
  If you would like to set up your own lab or see how I configured mine, check
 out the following tutorial:
  
-[LAB SETUP](https://youtu.be/6xRZKXiHfS4)
 
 [![LAB SETUP](Images/LabSetup.jpg)](https://youtu.be/6xRZKXiHfS4 "Active Directory Hacking Lab Setup")
 
@@ -138,8 +137,7 @@ enterprise enviroment such as this.
 
 Check out my walkthrough for LLMNR, NBT-NS, and mDNS poisoning below:
 
-[LLMNR/NBT-NS/mDNS Poisoning](https://youtu.be/gi-Sj7o1gZw)
-
+[![LLMNR,NBT-NS, & mDNS Poisoning](Images/LLMNR_NBTNS_mDNS.jpg)](https://youtu.be/gi-Sj7o1gZw "LLMNR,NBT-NS, & mDNS Poisoning Attack")
 
 
 
@@ -173,7 +171,7 @@ To get a better understanding of how this attack works under the
 hood check out this article [mitm6](https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6), 
 and to watch my walktrhough of the attack check out the video below:
 
-[IPv6 Takeover](https://youtu.be/Ee6BzduJErs)
+[![IPv6 TAKEOVER](Images/IPv6Takeover.jpg)](https://youtu.be/Ee6BzduJErs "IPv6 Takeover Attack")
 
 
 ### Kerberoasting
