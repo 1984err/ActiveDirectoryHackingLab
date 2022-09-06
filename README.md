@@ -85,8 +85,8 @@ Password = toor
 |----------------|-----------|--------------|----------|------------------|
 | Administrator  | password1 |     yes      | Admin    | HAMMERHEAD-DC    |
 | spike          | password2 |     yes      | User     | SWORDFISH        |
-| faye           | password3 |     yes      | User     | RED-TAIL         |
-| cbsvc          | password4 |     no       | Service  | n/a              |
+| faye           | password3 |     no       | User     | RED-TAIL         |
+| cbsvc          | password4 |     yes      | Service  | n/a              |
 | vicious        | toor      |     n/a      | Attacker | RDCS             |
 
 
