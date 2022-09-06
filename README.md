@@ -1,4 +1,4 @@
-# ACTIVE DIRECTORY HACKING LAB
+# **ACTIVE DIRECTORY HACKING LAB**
 
  I created this lab to research exploits and find vulnerabilities within 
 Microsoft Windows and Active Directory. This test environment was created in 
@@ -20,7 +20,7 @@ out the following tutorial:
 [![LAB SETUP](Images/LabSetup.jpg)](https://youtu.be/6xRZKXiHfS4 "Active Directory Hacking Lab Setup")
 
 
-## NETWORK
+## **NETWORK**
 
 AD Domain Name = bebop.net \
 Address Range = 10.10.2.0/24 \
@@ -34,7 +34,7 @@ SMB = [ON]
 
 
 
-## COMPUTERS
+## **COMPUTERS**
 
 ### Host 1 (Domain Controller):
 
@@ -79,7 +79,7 @@ Password = toor
 
 
 
-## USERS
+## **USERS**
 
 | Username       | Password  | Domain Admin | Function | Primary Computer |
 |----------------|-----------|--------------|----------|------------------|
@@ -91,9 +91,9 @@ Password = toor
 
 
 
-## ATTACKS
+## **ATTACKS**
 
-### LLMNR, NBNS, and mDNS Poisoning
+### **LLMNR, NBNS, and mDNS Poisoning**
 
 #### Command Line Tools Needed:
 - Responder (Pre-Installed in Kali Linux 2022.2)
@@ -174,15 +174,15 @@ and to watch my walktrhough of the attack check out the video below:
 [![IPv6 TAKEOVER](Images/IPv6Takeover.jpg)](https://youtu.be/Ee6BzduJErs "IPv6 Takeover Attack")
 
 
-### Kerberoasting
+### **Kerberoasting**
 
 *coming soon*
 
-### PetitPotam
+### **PetitPotam**
 
 *coming soonish*
 
-### SMBRelay
+### **SMBRelay**
 
 *coming soonish, but not as soonish as the last one*
 
