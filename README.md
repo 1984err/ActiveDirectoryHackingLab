@@ -18,6 +18,8 @@ out the following tutorial:
  
 [LAB SETUP](https://youtu.be/6xRZKXiHfS4)
 
+[![LAB SETUP](Images/SetupScreen.png)](https://youtu.be/6xRZKXiHfS4 "Active Directory Hacking Lab Setup")
+
 
 ## NETWORK
 
