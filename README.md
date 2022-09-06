@@ -104,10 +104,10 @@ Password = toor
 family. LLMNR (Link-Local Multicast Name Resolution), NBNS (NetBIOS Name 
 Service) and mDNS (Multicast Domain Name System) are all components of 
 Microsoft Windows that act as an alternative method for host identification. 
-LLMNR (tcp/udp: 5355) allows hosts on the same subnet to query other hosts for
-name resolution. NBNS (aka NBT-NS or netbios-ns) (tcp/udp: 137) which is the 
+LLMNR (udp:5355) allows hosts on the same subnet to query other hosts for
+name resolution. NBNS (aka NBT-NS or netbios-ns) (udp:137) which is the 
 predecessor to LLMNR uses the NetBIOS name of the host to identify the system 
-on the same subnet. Lastly, mDNS functions similar to both of its formerly 
+on the same subnet. Lastly, mDNS (udp:5353 functions similar to both of its formerly 
 mentioned counterparts but was originally a protocol created and used by Apple.
 In Windows 10, mDNS was added to the Windows environment due its ease of use.
 
