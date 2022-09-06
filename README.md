@@ -5,13 +5,13 @@ Microsoft Windows and Active Directory. The environment was created in
 VirtualBox using Kali Linux, Microsoft Windows Server 2022, and Windows 10 
 Enterprise. You can grab virtualbox and each OS with the following links:
 
-![Virtualbox](https://www.virtualbox.org)
+[Virtualbox](https://www.virtualbox.org)
 
-![Windows Server 2022](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)  
+[Windows Server 2022](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)  
 
-![Windows 10 Enterprise](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise) 
+[Windows 10 Enterprise](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise) 
 
-![Kali Linux](https://www.kali.org) 
+[Kali Linux](https://www.kali.org) 
 
  If you would like to setup your own lab or see how I configured mine, check
 out the following tutorial:
@@ -21,7 +21,7 @@ Lab Setup Walkthrough
 
 ## NETWORK
 
-![](https://github.com/1984err/ActiveDirectoryHackingLab/Images/VBoxNatNetwork.png)
+![](Images/VBoxNatNetwork.png)
 
 AD Domain Name = bebop.net \
 Address Range = 10.10.2.0/24 \
