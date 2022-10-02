@@ -14,7 +14,7 @@ Enterprise. You can grab virtualbox and each OS with the following links:
 [Kali Linux](https://www.kali.org) 
 
  If you would like to set up your own lab or see how I configured mine, check
-out the following tutorial:
+out my following tutorial:
  
 
 [![LAB SETUP](Images/LabSetup.jpg)](https://youtu.be/6xRZKXiHfS4 "Active Directory Hacking Lab Setup")
